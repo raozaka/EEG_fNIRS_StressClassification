@@ -1,0 +1,7 @@
+This project expects a synchronized EEG–fNIRS dataset with:
+
+EEG: EDF files, 500 Hz, event markers for stimulus/response
+
+fNIRS: CSV files with HbO signals and device-marked events
+
+Probe map: alignment of fNIRS channels to EEG positions
